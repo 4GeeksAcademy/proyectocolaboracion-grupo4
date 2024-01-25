@@ -1,3 +1,9 @@
 body{
-    background: #BDBDBD;
+   /* background: #BDBDBD;*/
+   background: #fff;
+}
+
+.bg-gray{
+    background-color: #f1efef;
+
 }
